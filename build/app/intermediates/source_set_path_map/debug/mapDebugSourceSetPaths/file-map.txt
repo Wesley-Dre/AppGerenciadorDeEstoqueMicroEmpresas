@@ -1,0 +1,73 @@
+com.example.fp1.app-preference-1.2.1-0 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\0098a6e93522fecc805d8900172003dc\transformed\preference-1.2.1\res
+com.example.fp1.app-jetified-datastore-preferences-release-1 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\02cddce53ae6e54afa639a8fcdb8b322\transformed\jetified-datastore-preferences-release\res
+com.example.fp1.app-jetified-camera-camera2-1.3.4-2 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\0363abd935bb9255bb75e9082ff9e5f3\transformed\jetified-camera-camera2-1.3.4\res
+com.example.fp1.app-lifecycle-viewmodel-2.7.0-3 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\1b91be3af319ede480d7185430690ee1\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.fp1.app-jetified-datastore-core-release-4 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\1ba8599b6014e514325b6a37b5077642\transformed\jetified-datastore-core-release\res
+com.example.fp1.app-jetified-core-viewtree-1.0.0-5 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\1d1d008dbdc103dccf010f958cec393c\transformed\jetified-core-viewtree-1.0.0\res
+com.example.fp1.app-jetified-lifecycle-runtime-ktx-2.7.0-6 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\1da3d52bf544e2149dd46ce2061a20cf\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.fp1.app-jetified-tracing-1.2.0-7 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\285b6d6abe2dd4ba9515886e610a7341\transformed\jetified-tracing-1.2.0\res
+com.example.fp1.app-jetified-emoji2-views-helper-1.2.0-8 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\2899c534f3de5608a8a60403e44e6ec5\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.fp1.app-media-1.7.0-9 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\2c7a28485314ee0e74d343b62dcecbb6\transformed\media-1.7.0\res
+com.example.fp1.app-jetified-fragment-ktx-1.7.1-10 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\2e4c2e4e231b6a1dd462fb9cdc4ff977\transformed\jetified-fragment-ktx-1.7.1\res
+com.example.fp1.app-browser-1.8.0-11 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\308a2e77faa557d0bd706972416bde6a\transformed\browser-1.8.0\res
+com.example.fp1.app-webkit-1.12.1-12 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\3b224c4d0fbd8d5cdbd7c14809aacae1\transformed\webkit-1.12.1\res
+com.example.fp1.app-jetified-profileinstaller-1.4.0-13 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\4051a23600791cfac099a18cb55e807e\transformed\jetified-profileinstaller-1.4.0\res
+com.example.fp1.app-transition-1.4.1-14 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\45af1ebc35cbf9d2d2886a132166b73a\transformed\transition-1.4.1\res
+com.example.fp1.app-jetified-core-1.0.0-15 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\47506b70b93177473c53f4d5d7e77c91\transformed\jetified-core-1.0.0\res
+com.example.fp1.app-jetified-window-1.2.0-16 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\5093ab42d2307deb2d7ac0b7f5718c38\transformed\jetified-window-1.2.0\res
+com.example.fp1.app-fragment-1.7.1-17 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\55520e4df2220e27f13f0bbb7467d11a\transformed\fragment-1.7.1\res
+com.example.fp1.app-jetified-play-services-basement-18.4.0-18 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\5568a35fadd1ad6d1c703f16a16e5540\transformed\jetified-play-services-basement-18.4.0\res
+com.example.fp1.app-coordinatorlayout-1.0.0-19 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\58a0920e123e93dd6aa702d27ab7530e\transformed\coordinatorlayout-1.0.0\res
+com.example.fp1.app-appcompat-1.6.1-20 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\67e431d42222568371fff0afd22bbdc6\transformed\appcompat-1.6.1\res
+com.example.fp1.app-jetified-activity-ktx-1.10.1-21 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\68742d1210f2bc7bf3437fb32e500689\transformed\jetified-activity-ktx-1.10.1\res
+com.example.fp1.app-jetified-core-ktx-1.13.1-22 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\6ec70d4eb0351866340efe37c2014fef\transformed\jetified-core-ktx-1.13.1\res
+com.example.fp1.app-slidingpanelayout-1.2.0-23 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\74ed8ceaa55f9ae57c7b49acd30346c2\transformed\slidingpanelayout-1.2.0\res
+com.example.fp1.app-recyclerview-1.0.0-24 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\75e1bcd7a8b61b1e132d50e7766bfd37\transformed\recyclerview-1.0.0\res
+com.example.fp1.app-jetified-activity-1.10.1-25 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\75e4fbbc117a05e46af63afcd91a7463\transformed\jetified-activity-1.10.1\res
+com.example.fp1.app-jetified-firebase-common-20.4.3-26 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\7753fbb9eb20d93e79e4caf23f22802c\transformed\jetified-firebase-common-20.4.3\res
+com.example.fp1.app-jetified-camera-core-1.3.4-27 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\8bd470afad6cd272cc0b2e6bbdacbe98\transformed\jetified-camera-core-1.3.4\res
+com.example.fp1.app-core-1.13.1-28 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\8cf478dec41eed746328fa8046755ba2\transformed\core-1.13.1\res
+com.example.fp1.app-jetified-appcompat-resources-1.6.1-29 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\a12a090674da1baef97900c09c2e9654\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.fp1.app-jetified-lifecycle-viewmodel-ktx-2.7.0-30 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\a1682fe25d19efcf6ed57ec9bfdc01f5\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.fp1.app-jetified-media3-exoplayer-1.4.1-31 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\ab1dc0cd23ebe3c890248eaabfbb4ea4\transformed\jetified-media3-exoplayer-1.4.1\res
+com.example.fp1.app-jetified-savedstate-1.2.1-32 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\b3d51a44ab6b56289d4858158a1ad6dd\transformed\jetified-savedstate-1.2.1\res
+com.example.fp1.app-lifecycle-runtime-2.7.0-33 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\c092edbccc16347970ed4f22e8da111a\transformed\lifecycle-runtime-2.7.0\res
+com.example.fp1.app-jetified-window-java-1.2.0-34 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\c1f85211ae6978d0218d51595a7f7e62\transformed\jetified-window-java-1.2.0\res
+com.example.fp1.app-jetified-annotation-experimental-1.4.1-35 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\c458939f30f1e90860cb5a0c34566e85\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.fp1.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-36 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\c7156a54e8f0502a1f8f57797d8b3e6e\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.fp1.app-jetified-datastore-release-37 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\c7cbd00988e28f46cac66dd959ae6532\transformed\jetified-datastore-release\res
+com.example.fp1.app-jetified-emoji2-1.2.0-38 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\d221757f531c672c2df2db4ebaa2cbf1\transformed\jetified-emoji2-1.2.0\res
+com.example.fp1.app-jetified-startup-runtime-1.1.1-39 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\e0d9d3675465ff69d847e2f781f20c61\transformed\jetified-startup-runtime-1.1.1\res
+com.example.fp1.app-lifecycle-livedata-2.7.0-40 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\e0eede8414d1ee0e5f236daeb1a2e59a\transformed\lifecycle-livedata-2.7.0\res
+com.example.fp1.app-lifecycle-livedata-core-2.7.0-41 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\e2e21678784b3eef6b33f576b1691a56\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.fp1.app-jetified-lifecycle-process-2.7.0-42 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.fp1.app-jetified-savedstate-ktx-1.2.1-43 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\ebca0abd79b4e189ce4efe6f41f957a4\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.fp1.app-jetified-lifecycle-livedata-core-ktx-2.7.0-44 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\ebeb29d7113d60e59d5e0acf92f847f3\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.fp1.app-jetified-play-services-base-18.5.0-45 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\f6fa56a75284f8e0ea5d27971291f441\transformed\jetified-play-services-base-18.5.0\res
+com.example.fp1.app-jetified-camera-lifecycle-1.3.4-46 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\fc050ad4b66ae7fc168c063a93916410\transformed\jetified-camera-lifecycle-1.3.4\res
+com.example.fp1.app-core-runtime-2.2.0-47 C:\Users\VAIO\.gradle\caches\8.10.2\transforms\ff849810dfe34a0ab790c402787c149e\transformed\core-runtime-2.2.0\res
+com.example.fp1.app-debug-48 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\android\app\src\debug\res
+com.example.fp1.app-main-49 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\android\app\src\main\res
+com.example.fp1.app-pngs-50 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\app\generated\res\pngs\debug
+com.example.fp1.app-resValues-51 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\app\generated\res\resValues\debug
+com.example.fp1.app-packageDebugResources-52 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.fp1.app-packageDebugResources-53 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.fp1.app-debug-54 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\app\intermediates\merged_res\debug\mergeDebugResources
+com.example.fp1.app-debug-55 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\app_links\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-56 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\audio_session\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-57 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\cloud_firestore\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-58 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\firebase_core\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-59 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-60 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\image_picker_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-61 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\just_audio\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-62 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\mobile_scanner\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-63 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\package_info_plus\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-64 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-65 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\permission_handler_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-66 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\printing\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-67 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\shared_preferences_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-68 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\sqflite_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-69 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\url_launcher_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-70 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\video_player_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-71 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\wakelock_plus\intermediates\packaged_res\debug\packageDebugResources
+com.example.fp1.app-debug-72 C:\Users\VAIO\Desktop\Nova pasta\tcc2\tcc\do zero\fp1\build\webview_flutter_android\intermediates\packaged_res\debug\packageDebugResources

@@ -1,0 +1,1 @@
+ C:\\Users\\VAIO\\Desktop\\Nova\ pasta\\tcc2\\tcc\\do\ zero\\fp1\\.dart_tool\\flutter_build\\f7eabb61744590fd57b1cc0286853f40\\native_assets.json: 
