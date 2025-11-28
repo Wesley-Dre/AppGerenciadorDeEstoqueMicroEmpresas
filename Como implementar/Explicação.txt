@@ -1,1 +1,265 @@
+Para rodar o aplicativo voce precisara baixar o VScode, o complemento para flutter do vscode e o android studio para o sdk, a versão do flutter é Flutter 3.29.2, ja no dart é a 3.7.2 que é o sdk utilizado, depois dissso so sera nescessario configurar o ambiente varia de celular para celular.
+
+A respeito do aplicativo e bibliotecas:
+
+Tudas as bibliotecas utiliadas: 
+
+version: 0.1.0
+
+Versão do app.
+
+🔧 📌 Environment
+environment:
+  sdk: ^3.7.2
+
+
+Seu Flutter está configurado para usar o Dart SDK 3.7.2 ou superior.
+
+📦 📌 Dependências (dependencies)
+
+Estas são usadas no código do app:
+
+➡️ Flutter e Localizações
+flutter
+
+Base do framework.
+
+flutter_localizations
+
+Permite suporte a múltiplos idiomas.
+
+➡️ Comunicação e Rede
+http: ^0.13.6
+
+Para fazer requisições HTTP (API REST).
+
+supabase_flutter: ^2.8.0
+
+Conexão com o backend Supabase (autenticação, banco PostgreSQL, storage, etc.)
+
+mailer: ^6.2.0
+
+Envia e-mails diretamente pelo app (SMTP).
+
+➡️ Banco de Dados Local
+sqflite: ^2.3.0
+
+Banco de dados SQLite dentro do dispositivo.
+
+path: ^1.8.3
+
+Manipula caminhos de arquivos (usado com sqflite).
+
+shared_preferences: ^2.2.2
+
+Armazena dados simples (como chave-valor), ex: tema, login salvo etc.
+
+➡️ Firebase
+firebase_core: ^2.0.0
+
+Necessário para inicializar o Firebase.
+
+cloud_firestore: ^4.0.0
+
+Banco de dados em nuvem NoSQL do Firebase.
+
+➡️ Interface e Animações
+flutter_widget_from_html: ^0.16.0
+
+Renderiza HTML como widgets Flutter.
+
+animated_text_kit: ^4.2.2
+
+Textos animados (typewriter, colorido, etc.)
+
+flutter_colorpicker: ^1.0.3
+
+Selecionador de cores em UI.
+
+pin_code_fields: ^8.0.0
+
+Campos de PIN/OTP (p. ex: validação por código).
+
+fl_chart: ^0.70.0
+
+Gráficos (pizza, linhas, barras).
+
+➡️ Câmera, Scanner e Imagens
+mobile_scanner: ^6.0.7
+
+Leitor de código de barras/QR Code.
+
+image_picker: ^1.0.0
+
+Seleciona foto da galeria ou câmera.
+
+permission_handler: ^10.2.0
+
+Controle de permissões: câmera, arquivos, etc.
+
+barcode_widget: ^2.0.3
+
+Gera códigos de barras e QR Code como imagem.
+
+➡️ Datas, PDFs e Impressões
+intl: ^0.19.0
+
+Formatos de datas, moeda, números.
+
+pdf: ^3.11.1
+
+Criação de PDFs dentro do app.
+
+printing: ^5.13.1
+
+Imprimir, salvar ou compartilhar PDFs.
+
+screenshot: ^2.1.0
+
+Tira print de widgets na tela.
+
+➡️ Logs
+logger: ^1.1.0
+
+Sistema melhorado de logs para debug.
+
+🛠 📌 dev_dependencies (usadas no desenvolvimento)
+flutter_test
+
+Ferramentas para testes do Flutter.
+
+flutter_lints: ^5.0.0
+
+Regras de boas práticas e lint.
+
+flutter_launcher_icons: ^0.13.1
+
+Gera ícones do aplicativo automaticamente.
+
+🎨 📌 Configuração dos assets
+assets:
+  - assets/images/logo.png
+  - assets/images/triste.png
+
+
+Imagens usadas no app.
+
+📱 📌 flutter_launcher_icons
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/images/icone.png"
+
+
+Usado para gerar ícone do app Android (usando aquela imagem).
+
+ja sobre o aplicativo: as telas estão na pasta lib, para facilitar a visualização arrumamos como screens e separamoss por funçoes de cada uma delas.
+
+após o versionamento estar configurado, você precisara habilitar o modo desenvolvedor no seu dispositivo android, com o modo ja habilitado, abra o terminal e rode o flutter run, se tudo estiver correto é para o aplicativo
+compilar normalmente. 
+
+Informções sobre o banco de dados, o banco funciona no supabase é gratuito porem nao pode ser compartilhado , a versao compartilhada do código esta vinculada ao meu banco caso queira rodar no seu próprio, sera nescessario recrialo do zero, o banco utilizado 
+permite somente sete dias de inatividade, provavelmente estara pausado, devido a isso recomento criar o seu proprio. os schemas de cada table estara logo abaixo:
+
+Funcionarios:
+
+create table public.funcionarios (
+  id bigserial not null,
+  nome text not null,
+  senha text not null,
+  nestab text not null,
+  usuario_id bigint not null,
+  cor bigint null,
+  data_criacao timestamp without time zone not null default now(),
+  constraint funcionarios_pkey primary key (id)
+) TABLESPACE pg_default;
+
+Movimentações
+
+create table public.movimentacoes (
+  id bigserial not null,
+  codigo text not null,
+  nome text not null,
+  quantidade integer not null,
+  tipo text not null,
+  data timestamp without time zone not null default now(),
+  usuario_id bigint not null,
+  preco numeric(10, 2) null default 0.00,
+  constraint movimentacoes_pkey primary key (id)
+) TABLESPACE pg_default;
+
+Produtos
+
+create table public.movimentacoes (
+  id bigserial not null,
+  codigo text not null,
+  nome text not null,
+  quantidade integer not null,
+  tipo text not null,
+  data timestamp without time zone not null default now(),
+  usuario_id bigint not null,
+  preco numeric(10, 2) null default 0.00,
+  constraint movimentacoes_pkey primary key (id)
+) TABLESPACE pg_default;
+
+Produtos Setores
+
+create table public.movimentacoes (
+  id bigserial not null,
+  codigo text not null,
+  nome text not null,
+  quantidade integer not null,
+  tipo text not null,
+  data timestamp without time zone not null default now(),
+  usuario_id bigint not null,
+  preco numeric(10, 2) null default 0.00,
+  constraint movimentacoes_pkey primary key (id)
+) TABLESPACE pg_default;
+
+Recuperação de senha:
+
+create table public.movimentacoes (
+  id bigserial not null,
+  codigo text not null,
+  nome text not null,
+  quantidade integer not null,
+  tipo text not null,
+  data timestamp without time zone not null default now(),
+  usuario_id bigint not null,
+  preco numeric(10, 2) null default 0.00,
+  constraint movimentacoes_pkey primary key (id)
+) TABLESPACE pg_default;
+
+Setores:
+
+create table public.movimentacoes (
+  id bigserial not null,
+  codigo text not null,
+  nome text not null,
+  quantidade integer not null,
+  tipo text not null,
+  data timestamp without time zone not null default now(),
+  usuario_id bigint not null,
+  preco numeric(10, 2) null default 0.00,
+  constraint movimentacoes_pkey primary key (id)
+) TABLESPACE pg_default;
+
+Usuarios:
+
+create table public.movimentacoes (
+  id bigserial not null,
+  codigo text not null,
+  nome text not null,
+  quantidade integer not null,
+  tipo text not null,
+  data timestamp without time zone not null default now(),
+  usuario_id bigint not null,
+  preco numeric(10, 2) null default 0.00,
+  constraint movimentacoes_pkey primary key (id)
+) TABLESPACE pg_default;
+
+
+
+
+
 
